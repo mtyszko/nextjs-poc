@@ -1,1 +1,1 @@
-export const postsNumber = 1000;
+export const postsNumber = 3000;
